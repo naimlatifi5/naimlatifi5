@@ -22,6 +22,7 @@ In my spare time, I like to write articles for dev communities and participate i
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue.js" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual studio code" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="REACT" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="GIT" width="100" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typeScript" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="node" width="100" height="55"/>
