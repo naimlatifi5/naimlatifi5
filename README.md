@@ -51,7 +51,9 @@ In my spare time, I like to write articles for dev communities and participate i
 <!-- BLOG-POST-LIST:START -->
 
 📍 [Understanding "this" in JavaScript](https://dev.to/naimlatifi5/understanding-this-in-javascript-cm2)
+
 📍 [ECMAScript 2021 (ES12) new features](https://dev.to/naimlatifi5/ecmascript-2021-es12-new-features-2l67)
+
 📍 [The basic React hooks - useState and useEffect](https://dev.to/naimlatifi5/the-basic-react-hooks-usestate-and-useeffect-103)
 
 <!-- BLOG-POST-LIST:END -->
