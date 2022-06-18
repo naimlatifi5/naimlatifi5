@@ -26,11 +26,14 @@ Coming soon... :)
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Latest Blog Posts :
 
-1. Understanding "this" in JavaScript https://dev.to/naimlatifi5/understanding-this-in-javascript-cm2
-2. ECMAScript 2021 (ES12) new features https://dev.to/naimlatifi5/ecmascript-2021-es12-new-features-2l67
-3. The basic React hooks - useState and useEffect https://dev.to/naimlatifi5/the-basic-react-hooks-usestate-and-useeffect-103
+<!-- BLOG-POST-LIST:START -->
+
+- [Understanding "this" in JavaScript](https://dev.to/naimlatifi5/understanding-this-in-javascript-cm2)
+- [ECMAScript 2021 (ES12) new features](https://dev.to/naimlatifi5/ecmascript-2021-es12-new-features-2l67)
+- [The basic React hooks - useState and useEffect](https://dev.to/naimlatifi5/the-basic-react-hooks-usestate-and-useeffect-103)
+<!-- BLOG-POST-LIST:END -->
 
 <h3>Get in touch with me</h3>
 <div id="badges">
