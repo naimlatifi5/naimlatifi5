@@ -15,16 +15,16 @@ I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="mysql" width="100" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue.js" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual studio code" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="GIT" width="100" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typeScript" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="node" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="60" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="100" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="jest" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="45" height="55"/>
