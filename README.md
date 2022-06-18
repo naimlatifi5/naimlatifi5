@@ -29,7 +29,7 @@ In my spare time, I like to write articles for dev communities and participate i
       <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="jest" width="100" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="100" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="100" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" width="100" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" width="110" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" width="100" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" width="100" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" width="100" height="55"/>
@@ -50,9 +50,10 @@ In my spare time, I like to write articles for dev communities and participate i
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Understanding "this" in JavaScript](https://dev.to/naimlatifi5/understanding-this-in-javascript-cm2)
-- [ECMAScript 2021 (ES12) new features](https://dev.to/naimlatifi5/ecmascript-2021-es12-new-features-2l67)
-- [The basic React hooks - useState and useEffect](https://dev.to/naimlatifi5/the-basic-react-hooks-usestate-and-useeffect-103)
+📍 [Understanding "this" in JavaScript](https://dev.to/naimlatifi5/understanding-this-in-javascript-cm2)
+📍 [ECMAScript 2021 (ES12) new features](https://dev.to/naimlatifi5/ecmascript-2021-es12-new-features-2l67)
+📍 [The basic React hooks - useState and useEffect](https://dev.to/naimlatifi5/the-basic-react-hooks-usestate-and-useeffect-103)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Get in touch with me</h3>
