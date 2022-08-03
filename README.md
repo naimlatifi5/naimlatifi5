@@ -53,6 +53,8 @@ In my spare time, I like to write articles for dev communities and participate i
 
 <!-- LATEST-PROJECTS-LIST:START -->
 
+📍 [My to-do-app with React.js and TypeScript](https://my-to-do-app-b92e9.web.app/)
+ 
 📍 [Infinite Scroll with React.js](https://heuristic-tesla-2575dc.netlify.app/)
 
 📍 [Quote CRUD App build with React.js](https://dev.to/naimlatifi5/quote-crud-app-build-with-react-js-51k6)
