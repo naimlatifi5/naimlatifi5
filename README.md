@@ -8,7 +8,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> offering 9+ years of experience by providing high-quality response web applications for diverse industry organizations. Skilled in designing, developing and testing web applications incorporating a range of technologies. My expertise is among CSS, HTML, JavaScript, ECMAScript (ES6+), React.js, Vue.js, TDD etc..
+I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> offering 9+ years of experience by providing high-quality response web applications for diverse industry organizations. Skilled in designing, developing and testing web applications incorporating a range of technologies. My expertise is among CSS, HTML, JavaScript, ECMAScript (ES6+), React.js, Vue.js, TypeScript, TDD with react testing library etc..
 
 In my spare time, I like to write articles for dev communities and participate in various Meetups events to talk about interesting topics within the frontend world that help me to learn, explore and share new things, stay up to date as a developer and support the community and other people by sharing knowledge.
 
