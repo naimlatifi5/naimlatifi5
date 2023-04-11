@@ -71,6 +71,8 @@ In my spare time, I like to write articles for dev communities and participate i
 
 📍 [The basic React hooks - useState and useEffect](https://dev.to/naimlatifi5/the-basic-react-hooks-usestate-and-useeffect-103)
 
+📍 [📈 Front-end development trends to watch in 2023 👩💻👨💻](https://www.linkedin.com/pulse/front-end-development-trends-watch-2023-naim-latifi%3FtrackingId=C2nTsjp9SLaOSfnZFhiJ5g%253D%253D/?trackingId=C2nTsjp9SLaOSfnZFhiJ5g%3D%3D)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Get in touch with me</h3>
