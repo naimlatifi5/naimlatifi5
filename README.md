@@ -43,8 +43,6 @@ In my spare time, I like to write articles for dev communities and participate i
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naimlatifi5&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naimlatifi5)](https://github.com/naimlatifi5/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimlatifi5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
