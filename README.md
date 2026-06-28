@@ -48,6 +48,8 @@ In my spare time, I like to write articles for dev communities and participate i
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimlatifi5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+### Latest AI projects 🤖
+Digital Twin: https://naiml-digital-twin.hf.space/ 
 
 ### 🧳 Latest projects:
 
