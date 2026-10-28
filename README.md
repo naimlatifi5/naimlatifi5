@@ -48,10 +48,10 @@ In my spare time, I like to write articles for dev communities and participate i
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naimlatifi5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### Latest AI projects 🤖
+### AI projects 🤖
 Digital Twin: https://naiml-digital-twin.hf.space/ 
 
-### 🧳 Latest projects:
+### 🧳 Projects:
 
 <!-- LATEST-PROJECTS-LIST:START -->
 
@@ -63,7 +63,7 @@ Digital Twin: https://naiml-digital-twin.hf.space/
 
 ---
 
-### :writing_hand: Latest blog posts & podcasts :
+### :writing_hand: Blog posts & podcasts :
 
 <!-- BLOG-POST-LIST:START -->
 📍 [Frontend development and AI](https://open.spotify.com/episode/5vtBCmDjlvH5TbecYZlISh)
