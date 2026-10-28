@@ -53,7 +53,7 @@ Digital Twin: https://naiml-digital-twin.hf.space/
 
 Frontend Automation -  Jira ticket → code → PR → Done, with an AI-powered accessibility review
 
-Frontend automation pull requests(PR) with virtual team: Alice (accessibility A11y expert), Bob(security expert), Emma (testing expert), and Kevin(performance expert)
+Frontend automation pull requests(PR) with virtual team experts: Alice (accessibility A11y), Bob(security), Emma (testing), and Kevin(performance)
 
 ### 🧳 Projects:
 
