@@ -63,7 +63,7 @@ Digital Twin: https://naiml-digital-twin.hf.space/
 
 ---
 
-### :writing_hand: Latest Blog Posts :
+### :writing_hand: Latest blog posts & podcasts :
 
 <!-- BLOG-POST-LIST:START -->
 📍 [Frontend development and AI](https://open.spotify.com/episode/5vtBCmDjlvH5TbecYZlISh)
