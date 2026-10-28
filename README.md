@@ -66,6 +66,7 @@ Digital Twin: https://naiml-digital-twin.hf.space/
 ### :writing_hand: Latest Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+📍 [Frontend development and AI](https://open.spotify.com/episode/5vtBCmDjlvH5TbecYZlISh)
 
 📍 [Understanding "this" in JavaScript](https://dev.to/naimlatifi5/understanding-this-in-javascript-cm2)
 
